@@ -1,0 +1,4 @@
+name: SkyCoinApi
+version: '${project.version}'
+main: hu.crackpixel.skycoinapi.skycoinapi.SkyCoinApi
+load: STARTUP
